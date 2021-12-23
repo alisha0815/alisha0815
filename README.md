@@ -1,6 +1,6 @@
 ### Hei! 👋 I am Alisha
 
-## I am a junior-level fullstack developer based in Oslo !
+## I am based in Oslo !
 
 - 🚀 <strong>I have experience building with the following tools </strong>⚡
 
