@@ -4,6 +4,7 @@
 
 - 🚨 I am learning Redux and Vue.js.
 - 🦄 Learn more about me ⏩⏩ https://alisha-portfolio.netlify.app/
+- 📧 Let's get in touch alishasgreve@gmail.com
 - 🚀 I have experience building with the following tools ⚡
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
