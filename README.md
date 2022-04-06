@@ -29,7 +29,7 @@
    <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
    </br>
  
-- 🚀 <strong> PLUS! Some of the statistical tools that I used for data wrangling and analysis</strong> 📊
+- ✅ <strong>PLUS!</strong> Some of the statistical tools that I used for data wrangling and analysis 📊
   <p align="left"> <a href="https://www.rstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/77492629/132702537-893ad619-fde6-4af2-8237-2a5d0cc60444.png" alt="nodejs" width="40" height="40"/> </a><a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank"> <img src="https://www.bergop.info/wp-content/uploads/2016/09/spss-logo-300x300.png" alt="nodejs" width="40" height="40"/></a><a href="https://www.statmodel.com/" target="_blank"> <img src="https://yt3.ggpht.com/a-/AAuE7mDnjz0n3DSEjEzQ6wWkNZm8zgDI-CghQtTfGQ=s900-mo-c-c0xffffffff-rj-k-no" width="50" height="50"/></a> </p>
  
 <!---
