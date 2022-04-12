@@ -2,7 +2,7 @@
 
 ## Full-stack Dev based in Oslo !
 
-- 🚨 I am currently learning Redux and Vue.js.
+- 🚨 I am currently learning Redux and TailWind CSS.
 - 🦄 Learn more about me ⏩⏩ https://alisha-portfolio.netlify.app/
 - 📧 How to reach me ❓ alishasgreve@gmail.com
 - 🚀 I have experience building with the following tools ⚡
