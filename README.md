@@ -2,7 +2,7 @@
 
 ## Full-stack Dev based in Oslo !
 
-- 🚨 I am currently learning Redux, RTK Query, Next js and TailWind CSS.
+- 🚨 I am currently learning RTK Query, Next js.
 - 🦄 Learn more about me ⏩⏩ https://alisha-portfolio.netlify.app/
 - 📧 How to reach me ❓ alishasgreve@gmail.com
 - 🚀 I have experience building with the following tools ⚡
