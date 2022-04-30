@@ -1,6 +1,6 @@
 ### Hei! 👋 I am Alisha
 
-## Full-stack Dev based in Oslo !
+## Frontend Developer based in Oslo !
 
 - 🚨 I am currently learning RTK Query, Next js.
 - 🦄 Learn more about me ⏩⏩ https://alisha-portfolio.netlify.app/
