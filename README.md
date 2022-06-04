@@ -1,9 +1,7 @@
 ### Hei! 👋 I am Alisha
 
-## Frontend Developer based in Oslo !
+## Frontend Developer @<a href="https://lmkgroup.se/" target="_blank">LMK</a> based in Oslo !
 
-- 🚨 I am currently learning RTK Query, Next js.
-- 🦄 Learn more about me ⏩⏩ https://alisha-portfolio.netlify.app/
 - 📧 How to reach me ❓ alishasgreve@gmail.com
 - 🚀 I have experience building with the following tools ⚡
 <p align="left"> 
