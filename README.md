@@ -1,6 +1,6 @@
 ### Hei! 👋 I am Alisha
 
-## Frontend Developer @<a href="https://lmkgroup.se/" target="_blank">LMK</a> based in Oslo !
+## Frontend Developer based in Oslo !
 
 - 📧 How to reach me ❓ alishasgreve@gmail.com
 - 🚀 I have experience building with the following tools ⚡
